@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 10px;
+  background-color: grey;
+}
+
+#document-preview {
+  width: 100%;
+  background-color: white;
+}
+
+#textarea {
+  width: 100%;
+  border: none;
+  padding: 0;
+}
